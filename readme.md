@@ -1,8 +1,7 @@
 # 👋 Hey there, I'm Mehdi El Akary
 
 🎓 Software engineering student at **1337 Coding School** (Khouribga, Morocco)  
-💻 Passionate about systems programming, web development, and learning by building  
-🌍 Languages: English 🇬🇧 | French 🇫🇷
+💻 Passionate about systems programming, web development/AI/ML, and learning by building 
 
 ---
 
@@ -49,4 +48,4 @@
 > *“Build. Break. Learn. Repeat.”*
 
 <!-- Optional visitor badge -->
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=callmemehdy) -->
+< ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=callmemehdy)>
