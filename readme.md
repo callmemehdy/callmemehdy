@@ -40,7 +40,7 @@
 ## 🤝 Connect with Me
 
 - 📧 [mehdyakr@gmail.com](mailto:mehdyakr@gmail.com)  
-- 💼 [linkedin.com/in/mehdi-el-akary-b10779184](www.linkedin.com/in/mehdi-e-b10779184)  
+- 💼 [linkedin.com/in/mehdi-el-akary-b10779184](https://www.linkedin.com/in/mehdi-e-b10779184)  
 - 💻 [github.com/callmemehdy](https://github.com/callmemehdy)
 
 ---
