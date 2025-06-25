@@ -47,5 +47,3 @@
 
 > *“Build. Break. Learn. Repeat.”*
 
-<!-- Optional visitor badge -->
-< ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=callmemehdy)>
