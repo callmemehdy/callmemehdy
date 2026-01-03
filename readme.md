@@ -64,16 +64,31 @@ I'm a software engineer focused on AI/ML and systems programming, currently stud
 
 ---
 
-## GitHub Stats
+## Areas of Focus
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=callmemehdy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmemehdy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-</div>
+**Artificial Intelligence & Machine Learning**
+- Building RAG systems with LangChain and vector databases
+- Implementing ML algorithms from scratch to understand the fundamentals
+- Working with local LLMs (Ollama, Mistral) for privacy-focused applications
+- Feature engineering and data preprocessing pipelines
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmemehdy&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+**Systems Programming**
+- Network programming with C/C++ (non-blocking I/O, socket programming)
+- Multi-threaded and concurrent systems design
+- Memory management and performance optimization
+- Building servers and low-level infrastructure
+
+**Full Stack Development**
+- Real-time applications with WebSockets
+- Authentication systems (JWT, 2FA)
+- RESTful APIs with FastAPI and Fastify
+- Modern frontend with React and Next.js
+
+**DevOps & Infrastructure**
+- Container orchestration with Docker
+- Building custom Docker images from scratch
+- Load balancing and reverse proxying with Nginx
+- Secrets management with HashiCorp Vault
 
 ---
 
